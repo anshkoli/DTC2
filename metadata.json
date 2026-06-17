@@ -1,0 +1,6 @@
+{
+  "name": "DTC Beekeeping",
+  "description": "Premium Beekeeping Equipment & Solutions by Dheera Trading Company. Care for Planet and People.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
